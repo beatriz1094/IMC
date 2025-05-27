@@ -87,7 +87,7 @@ class _LoginScreenState extends State<Login> {
               onPressed: () {
                 calcularIMC();
               },
-              child: Text('Avaliar'),
+              child: Text('IMC'),
             ),
             SizedBox(height: 20),
             Text(
